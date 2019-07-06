@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=north": { "model": "techcraft:block/generator", "y": 180 },
+    "facing=east": { "model": "techcraft:block/generator", "y": 270 },
+    "facing=south": { "model": "techcraft:block/generator", "y": 0 },
+    "facing=west": { "model": "techcraft:block/generator", "y": 90 }
+
+
+
+  }
+}
